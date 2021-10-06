@@ -32,6 +32,7 @@ Un DTD es una especie de plantilla que obliga a que se cumpla su formato. El DTD
         	<!ELEMENT fechaFinal(#PCDATA)>
 ]>
 ```
+## Resultado final
 Al final, juntando el DTD con el XML propuesto, el resultado es:
 ```bash
 <?xml version="1.0" encoding="iso-8859-1" standalone="yes"
