@@ -3,7 +3,7 @@ La tarea consiste en crear un formato de intercambio unificado para distribuir l
 ## DTD
 Un DTD es una especie de plantilla que obliga a que se cumpla su formato. El DTD propuesto es el siguiente:
 ```bash
-<?xml version="1.0" encoding="iso-8859-1" standalone="yes"
+<?xml version="1.0" encoding="iso-8859-15" standalone="yes"
 <!DOCTYPE archivoafiliados [
     <!ELEMENT afiliado (#PCDATA)>
         <!ELEMENT DNINIE (#PCDATA)>
